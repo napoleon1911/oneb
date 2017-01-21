@@ -168,7 +168,7 @@
               "size": 250
             }
           },
-          "title": "<br>THE THEFT PROOF, GADGET CHARGING, &nbsp;<span style=\"line-height: 1.1;\">DUFFEL BACKPACK &nbsp;TRAVEL BAG</span><br>",
+          "title": "<br>THE THEFT PROOF, GADGET CHARGING, &nbsp;<span style=\"line-height: 1.1;\">DUFFEL BACKPACK TRAVEL BAG</span><br>",
           "text": "<p>Packed with over 30 travel saving features to make your life easier, your journey hassle free so you can enjoy your travels more.<br>Pre-register to be the first to hear about our Kickstarter launch and get a OneBag at a special early bird discount price.</p>",
           "form": {
             "action": "jonathan@genex-solutions.com",
@@ -294,7 +294,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/img-20161117-142036-resized-20161117-031948205-1638x2364.jpg",
+              "src": "@PROJECT_PATH@/assets/images/b24-1.gif",
               "active": true,
               "link": "",
               "alt": "",
@@ -400,7 +400,7 @@
           "_anchor": "extFeatures8-6",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
@@ -449,7 +449,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/imgp8320-507x567.jpg",
+              "src": "@PROJECT_PATH@/assets/images/b23.gif",
               "active": true,
               "link": "",
               "alt": "",
@@ -461,7 +461,7 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "left",
+              "name": "quote",
               "family": "MobiriseIcons",
               "active": true,
               "size": "95",
@@ -499,7 +499,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#28324e",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -510,33 +510,34 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true,
-            "firstType": "hidden",
+            "firstType": "",
             "showIcons": true,
             "showButtons": false,
             "secondType": "",
             "thirdType": "",
-            "fourthType": "hidden"
+            "fourthType": ""
           },
           "title": "PRE-REGISTER FOR OUR EARLY BIRD PRICING&nbsp;",
           "subtitle": "Drop us your email so we can notify you when we launch and get a OneBag at our early bird special price. <br>Limited offer so sign up today to get in front of the queue !",
           "label1": "HOT!",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-extFeatures2",
-              "name": "layers",
+              "linkInNewWindow": false,
+              "name": "arrow-next",
+              "family": "MobiriseIcons",
+              "active": true,
               "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "color": "#666666"
             }
           },
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "$",
-          "price1": "10",
-          "period1": "monthly",
-          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "title1": "",
+          "subtitle1": "",
+          "currency1": "",
+          "price1": "",
+          "period1": "",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
           "label2": "HOT!",
           "media2": {
@@ -547,7 +548,7 @@
               "family": "MobiriseIcons",
               "active": true,
               "size": 0,
-              "color": "#666666"
+              "color": "#fac51c"
             }
           },
           "title2": "Early Bird Price",
@@ -567,10 +568,10 @@
               "family": "MobiriseIcons",
               "active": true,
               "size": 0,
-              "color": "#666666"
+              "color": "#fac51c"
             }
           },
-          "title3": "One Bag RRP",
+          "title3": "One Bag Retail Price",
           "subtitle3": "",
           "currency3": "$",
           "price3": "245",
@@ -583,29 +584,30 @@
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
               "linkInNewWindow": false,
-              "name": "globe",
+              "name": "arrow-prev",
               "family": "MobiriseIcons",
               "active": true,
               "size": 0,
               "color": "#666666"
             }
           },
-          "title4": "OneBag Pro",
+          "title4": "",
           "subtitle4": "",
-          "currency4": "$",
-          "price4": "245",
+          "currency4": "",
+          "price4": "",
           "period4": "",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "",
           "list4": "<ul class=\"list-group list-group-flush\"></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_styles": {
             ".mbr-section__container .mbr-section-title": {
-              "color": "#475577"
+              "color": "#fac51c"
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "font-size": "22px",
               "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#fac51c"
             },
             ".mbr-price-figure": {
               "color": "#fac51c"
@@ -628,7 +630,7 @@
           "_name": "testimonials1",
           "testimonial": [
             {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -642,7 +644,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -656,7 +658,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -693,7 +695,8 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#475577"
+              "color": "#475577",
+              "font-size": "36px"
             }
           }
         },
@@ -704,7 +707,7 @@
             },
             ".mbr-section-title": {
               "font-size": "36px",
-              "color": "#475577"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -713,18 +716,18 @@
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-e",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/plane-2000x1500.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.3",
             "overlayColor": "#222"
           },
-          "text": "LET US KNOW WHAT YOU <br>THINK OF THE ONEBAG&nbsp;",
+          "text": "TELL US WHAT YOU <br>THINK OF THE ONEBAG&nbsp;",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
         }
       ]

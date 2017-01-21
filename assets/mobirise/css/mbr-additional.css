@@ -773,11 +773,12 @@ h6,
   color: #475577;
 }
 #extPricingTable1-f .mbr-section__container .mbr-section-title {
-  color: #475577;
+  color: #fac51c;
 }
 #extPricingTable1-f .mbr-section__container .mbr-section-subtitle {
   font-size: 22px;
   font-family: 'Roboto Condensed', sans-serif;
+  color: #fac51c;
 }
 #extPricingTable1-f .mbr-price-figure {
   color: #fac51c;
@@ -793,6 +794,7 @@ h6,
 }
 #testimonials1-d .mbr-section-title {
   color: #475577;
+  font-size: 36px;
 }
 #social-buttons2-e .mbr-section-title,
 #social-buttons2-e .btn-social {
@@ -800,5 +802,5 @@ h6,
 }
 #social-buttons2-e .mbr-section-title {
   font-size: 36px;
-  color: #475577;
+  color: #ffffff;
 }
