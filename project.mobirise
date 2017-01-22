@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 31,
+    "uniqCompNum": 33,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -130,6 +130,17 @@
             "Extension"
           ],
           "_name": "extForm2",
+          "_styles": {
+            "H3": {
+              "color": "#232323",
+              "font-size": "32px"
+            },
+            "P": {
+              "color": "#232323",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
           "_anchor": "extForm2-3",
           "_params": {
             "imageSize": "58",
@@ -168,8 +179,8 @@
               "size": 250
             }
           },
-          "title": "<br>THE THEFT PROOF, GADGET CHARGING, &nbsp;<span style=\"line-height: 1.1;\">DUFFEL BACKPACK TRAVEL BAG</span><br>",
-          "text": "<p>Packed with over 30 travel saving features to make your life easier, your journey hassle free so you can enjoy your travels more.<br>Pre-register your email in the box below and be the first to hear about our Kickstarter launch to get a OneBag at a special early bird discount price.</p>",
+          "title": "<br>THE MOST SECURE, FUNCTIONAL, VERSATILE<span style=\"line-height: 1.1;\">&nbsp;TRAVEL BAG EVER</span><br>",
+          "text": "<p>With over 30 travel saving features the OneBag will make your life easier, your trips hassle free so you can enjoy the journey more.<br>Launching soon on Kickstarter. Get a OneBag at our special early bird price. Just pre-registering below to get the early bird price when we launch (limited offer so don't miss this chance).</p>",
           "form": {
             "action": "jonathan@genex-solutions.com",
             "alerts": {
@@ -182,18 +193,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#232323",
-              "font-size": "32px"
-            },
-            "P": {
-              "color": "#232323",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         },
         {
           "_styles": {
@@ -201,7 +201,7 @@
               "color": "#232323"
             },
             ".feature-subtitle": {
-              "color": "#8c8c8c"
+              "color": "#28324e"
             },
             ".mbr-section-title": {
               "font-size": "36px",
@@ -265,7 +265,7 @@
           "subtitle": "It's the most versatile, feature rich, theft proof travel bag ever !",
           "feature_title1": "Theft Proof",
           "feature_subtitle1": "Protects your clothes, valuables and your bag",
-          "feature_text1": "You can lock the OneBag to anything, Lock it down in the coach luggage hold, or to the train overhead racks so no one can steal your bag so you can enjoy your journey.",
+          "feature_text1": "You can lock the OneBag to anything so no one can steal your bag<b> FOR WORRY FREE TRAVEL</b> so you can enjoy your journey more.",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -279,7 +279,7 @@
           },
           "feature_title2": "Super &nbsp;Organized",
           "feature_subtitle2": "Unpack in 3 seconds flat",
-          "feature_text2": "Our Travel Pacs are specially designed to keep you organized with your packing so you never forget a thing. They fit perfectly in the OneBag so you can pack super quick and unpack in 3 seconds flat with everything hanging ready for use ! <br>Now that's awesome packing.",
+          "feature_text2": "Our Travel Pac packing cubes are specially designed for the OneBag, keeping you super organized when you pack so you never forget a thing. And when you arrive you can <b>UNPACK IN 3 SECONDS FLAT</b>.&nbsp;<br>Now that's awesome packing.",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -315,7 +315,7 @@
           },
           "feature_title4": "Power All Your Devices <br>on the Go",
           "feature_subtitle4": "Keeps all your devices charged on the go",
-          "feature_text4": "Never run out of power again. The OneBag is designed to charge your laptop while in the bag, and our unique no mess, always ready retractable USB cable charges all your other devices while on the go.",
+          "feature_text4": "<b>NEVER RUN OUT OF JUICE</b>. With a OneBag you can charge your laptop without removing from your bag. Or use the unique 'no mess' retractable USB cable to keep all your other devices charged while you travel.",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -328,8 +328,8 @@
             }
           },
           "feature_title5": "Huge Capacity",
-          "feature_subtitle5": "45 litres means you can pack laods",
-          "feature_text5": "You can pack for a 2 day - 2 week trip with a OneBag, so you can dump the second bag and travel faster, less hassel, less worry, lighter and more freely. It makes travel so much more enjoyable not to have to cart two bags around and deal with check-in lines, lost luggage and carousels !"
+          "feature_subtitle5": "45 litres capacity allows you to pack loads",
+          "feature_text5": "You can <b>PACK FOR A 2 TO 12 DAY TRIP</b> with a OneBag, With OneBag you can travel faster, lighter, worry free, less hassle and 100% flexible. No more check-in lines, extra bag fees, lost luggage and waiting for your luggage at carousels !"
         },
         {
           "_styles": {
@@ -360,7 +360,7 @@
               "color": "#232323"
             },
             ".feature-subtitle": {
-              "color": "#8c8c8c"
+              "color": "#28324e"
             },
             ".feature-title": {
               "color": "#475577"
@@ -420,7 +420,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "feature_title1": "9 Bags in 1",
           "feature_subtitle1": "OneBag that gives you 9 different bags",
-          "feature_text1": "Why have a different bag for different travel requirements when you can configure the &nbsp;OneBag to make any bag you want in seconds. OneBag many ways. You can even change the way you want to carry <br>your bag on the go .",
+          "feature_text1": "You can recongifure the straps on a OneBag to make 9 different travel bags. <b>RECONFIGURE IT IN SECONDS.</b> Backpack mode is ideal for longer journeys, duffel mode for weekends away, tote mode for stairs and cobbles streets. Use it how you want not how <br>your bag dictates.",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -434,7 +434,7 @@
           },
           "feature_title2": "Hidden Pockets",
           "feature_subtitle2": "Keep your valuables safe and sound",
-          "feature_text2": "Our hidden pockets keep your valuables like passport, cash and wallet safe from theft. Perfect for keeping your valuables safe when you leave your bag unattended <br>in the hotel room.",
+          "feature_text2": "Our hidden pockets <b>KEEP YOUR</b>&nbsp;<b>VALUABLES</b> such as your passport, cash and wallet <b>SAFE</b> when you leave your bag unattended, like in a hotel room.",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -470,7 +470,7 @@
           },
           "feature_title4": "Awesome straps",
           "feature_subtitle4": "Making your travel that much easier",
-          "feature_text4": "Our straps keep everything you need for super easy travel right at hand so no need to rummage around to find your stuff. Earphones, pen, sunglasses, cash, keys, cards, phone are all ready for you.",
+          "feature_text4": "Our awesome straps keep <b>EVERYTHING YOU NEED RIGHT AT HAND</b> for super easy travel. No need to rummage around in your pockets or bag to find your stuff. Keep your earphones, pen, sunglasses, cash, keys, cards, phone all to hand.",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -483,8 +483,125 @@
             }
           },
           "feature_title5": "Built to Last",
-          "feature_subtitle5": "Slash and waterproof Ballistic Nylon",
-          "feature_text5": "We didn't compromise on quality. We use military grade metal clasps and super strong Ballistic nylon fabric to last and last no matter what you throw at it. This is OneBag that won't let you down on your travels."
+          "feature_subtitle5": "Made from Slash/Waterproof Ballistic Nylon",
+          "feature_text5": "<b>NO COMPROMISE ON QUALITY OR MATERIALS.</b> Our metal clasps are military grade and our Ballistic nylon fabric is made to last no matter what you throw at it. This is OneBag that won't let you down on your travels."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-v",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/no-more-copy-1400x1185-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NO MORE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-w",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/onebag-1400x1185-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "UPGRADE&nbsp;TO <br>ONEBAG TRAVEL&nbsp;",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "46px",
+              "color": "#475577"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -492,6 +609,29 @@
             "Extension"
           ],
           "_name": "extPricingTable1",
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fac51c"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "font-size": "22px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#fac51c"
+            },
+            ".mbr-price-figure": {
+              "color": "#fac51c"
+            },
+            ".mbr-price-value": {
+              "color": "#fac51c"
+            },
+            ".mbr-plan-title": {
+              "color": "#fac51c"
+            },
+            ".mbr-plan-label": {
+              "color": "#475577"
+            }
+          },
           "_anchor": "extPricingTable1-f",
           "_params": {
             "paddingTop": "2",
@@ -518,7 +658,7 @@
             "fourthType": ""
           },
           "title": "PRE-REGISTER FOR OUR EARLY BIRD PRICING&nbsp;",
-          "subtitle": "Drop us your email so we can notify you when we launch and get a OneBag at our early bird special price. <br>Limited offer so sign up today to get in front of the queue !",
+          "subtitle": "Don't miss out on getting a OneBag at our special early bird price. It's one bag that will change the way you travel !<br>Sign up in the form below to be notified when we launch on Kickstarter.",
           "label1": "HOT!",
           "media1": {
             "iconFont": {
@@ -571,7 +711,7 @@
               "color": "#fac51c"
             }
           },
-          "title3": "One Bag Retail Price",
+          "title3": "OneBag Retail Price",
           "subtitle3": "",
           "currency3": "$",
           "price3": "245",
@@ -598,30 +738,84 @@
           "period4": "",
           "description4": "",
           "list4": "<ul class=\"list-group list-group-flush\"></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
           "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fac51c"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "font-size": "22px",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "color": "#fac51c"
-            },
-            ".mbr-price-figure": {
-              "color": "#fac51c"
-            },
-            ".mbr-price-value": {
-              "color": "#fac51c"
-            },
-            ".mbr-plan-title": {
-              "color": "#fac51c"
-            },
-            ".mbr-plan-label": {
-              "color": "#475577"
+            ".mbr-section-title": {
+              "color": "#475577",
+              "font-size": "36px"
             }
-          }
+          },
+          "testimonial": [
+            {
+              "text": "<p>“Can I keep it! This bag has really &nbsp;changed the way I travel and keeps my phone and laptop charged too! \"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“I love the ability to go from a backpack to duffel mode in a second. Really useful to move around easily in crowded places.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“It worked great as a duffel for a weekend trip and packed perfect for my 10 day business trip. I was the first out of the airport from our plane for sure !\"&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "WHAT OUR BAG TESTERS HAVE TO SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
@@ -651,7 +845,7 @@
             "countdown": "2017/02/6",
             "showArrow": true
           },
-          "title2": "PRE- REGISTER NOW",
+          "title2": "PRE-REGISTER NOW",
           "form": {
             "action": "jonathan@genex-solutions.com",
             "alerts": {
@@ -680,83 +874,11 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">GET STARTED</a>",
-          "title": "GET FIRST IN LINE",
-          "text": "The OneBag will launch very soon on Kickstarter. We will only use your email to let you know when we launch to be the first in line to get your OneBag at an early bird price. See you then!"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have&nbsp;</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with&nbsp;</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop&nbsp;</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-d",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": false
-          },
-          "title": "WHAT PEOPLE ARE SAYING",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">LET ME KNOW !</a>",
+          "title": "BE THE FIRST IN LINE",
+          "text": "The OneBag will launch soon on Kickstarter. Your email will only be used to let you know when we launch so you can get your OneBag at the early bird price. &nbsp;See you then!",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#475577",
+            "H4": {
               "font-size": "36px"
             }
           }
@@ -788,8 +910,8 @@
             "overlayOpacity": "0.3",
             "overlayColor": "#222"
           },
-          "text": "TELL US WHAT YOU <br>THINK OF THE ONEBAG&nbsp;",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
+          "text": "OH, AND PLEASE HELP SPREAD <br>THE WORD!",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
         }
       ]
     }
